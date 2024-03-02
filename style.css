@@ -1,0 +1,23 @@
+body {
+    background-color:#fbe3e8;
+  }
+  
+  h1 {
+    color: #00DDFF;
+    font-weight: 3000;
+    text-align: center;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5cbdb9;
+    font-size: 25px;
+  }
+
+  blockquote{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    margin: 5px;
+    text-indent: 25px;
+    }
