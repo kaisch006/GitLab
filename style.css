@@ -1,7 +1,12 @@
 body {
     background-color:#fbe3e8;
-  }
-  
+    text-align: center;
+   }
+
+H1 {
+    font-weight: 400;
+}
+
   h1 {
     color: #00DDFF;
     font-weight: 3000;
@@ -15,6 +20,7 @@ body {
   }
 
   blockquote{
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-style: italic;
